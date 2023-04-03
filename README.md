@@ -14,6 +14,7 @@ The EPA's 2020 Economic Report found that the US recycling industry generated
 They also noted that *collecting and recycling 1,000 tons of recyclable materials equates to 1.17 jobs, $65,230 wages, and $9,420 tax revenues.* However, as shown in the graph below, the amount of recyclable materials collected per year has decreased since around 2009 and has been difficult to recover.
 
 ![image](https://user-images.githubusercontent.com/122308669/229595112-1a077f10-03f6-4fae-bace-1316230b8fa6.png)
+![2](https://user-images.githubusercontent.com/122308669/229606890-45a21137-6ce8-4eb8-9170-65ea4619640a.jpg)
 
 The objective of this project is to create a recycling classification model to identify different types of materials, which will be used to develop a user-friendly app. The app will help people recycle more effectively, which will hopefully lead to an increase in the amount of recyclable materials generated each year. This, in turn, will create more opportunities for companies to invest in the recycling industry.
 
@@ -39,7 +40,6 @@ Initially, I experimented with different combinations of convolutional layers an
 
 The first VGG16 model I built included the best combination of convolutional layers and regularizations that I had previously tried, but ultimately, I achieved better results by using only the VGG16 model.
 
-![image](https://user-images.githubusercontent.com/122308669/229606120-b0f4122d-596f-422d-84ec-4164ec53f6eb.png)
 ![1](https://user-images.githubusercontent.com/122308669/229606449-e9640b1d-a455-486e-8d00-c34727f551d5.jpg)
 
 ## Evaluation
