@@ -1,5 +1,7 @@
 # Recycling-Classifier
 
+![image](https://user-images.githubusercontent.com/122308669/229604989-135e33fa-4880-432a-8391-be18419a4723.png)
+
 ## Business and Problem Understanding
 
 The Environmental Protection Agency (EPA) is the stakeholder for this project. The goal is to incentivize companies to invest in the recycling industry. 
