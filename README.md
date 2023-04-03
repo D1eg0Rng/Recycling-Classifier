@@ -13,7 +13,7 @@ The EPA's 2020 Economic Report found that the US recycling industry generated
 
 They also noted that *collecting and recycling 1,000 tons of recyclable materials equates to 1.17 jobs, $65,230 wages, and $9,420 tax revenues.* However, as shown in the graph below, the amount of recyclable materials collected per year has decreased since around 2009 and has been difficult to recover.
 
-![2](https://user-images.githubusercontent.com/122308669/229607098-e35c6b8e-ff3a-4358-a8bb-da8a60ebc317.jpg)
+![2](https://user-images.githubusercontent.com/122308669/229607225-141ac6b3-a755-47f7-bcf1-0da724fe16b8.jpg)
 
 The objective of this project is to create a recycling classification model to identify different types of materials, which will be used to develop a user-friendly app. The app will help people recycle more effectively, which will hopefully lead to an increase in the amount of recyclable materials generated each year. This, in turn, will create more opportunities for companies to invest in the recycling industry.
 
