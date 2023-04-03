@@ -1,6 +1,6 @@
 # Recycling-Classifier
 
-![image](https://user-images.githubusercontent.com/122308669/229604989-135e33fa-4880-432a-8391-be18419a4723.png)
+![image](https://user-images.githubusercontent.com/122308669/229605103-31ec51ba-96c1-413e-ad05-352c236969d0.png)
 
 ## Business and Problem Understanding
 
