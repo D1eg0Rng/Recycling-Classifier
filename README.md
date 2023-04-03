@@ -39,7 +39,8 @@ Initially, I experimented with different combinations of convolutional layers an
 
 The first VGG16 model I built included the best combination of convolutional layers and regularizations that I had previously tried, but ultimately, I achieved better results by using only the VGG16 model.
 
-![image](https://user-images.githubusercontent.com/122308669/229602817-ff9ae112-0b2f-422c-b4ce-2b7291c48e72.png)
+![image](https://user-images.githubusercontent.com/122308669/229606120-b0f4122d-596f-422d-84ec-4164ec53f6eb.png)
+![1](https://user-images.githubusercontent.com/122308669/229606449-e9640b1d-a455-486e-8d00-c34727f551d5.jpg)
 
 ## Evaluation
 
